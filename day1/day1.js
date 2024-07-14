@@ -1,20 +1,20 @@
 // Variables and Data Types
 
-// Activity 1
+// Activity 1  #Variable declaration
 // Task1
 var children = 10;
 console.log(children);
 
-// Task2
+// Task2   
 let str = 'hello laiba';
 console.log(str);
 
-// Activity 2
+// Activity 2    #Constant declaration
 // Task3
 const isPaid = false;
 console.log(isPaid);
 
-// Activity 3
+// Activity 3   #Data Types
 // Task4
 let count = 5;
 let greet = 'Welcome back dear';
@@ -35,7 +35,7 @@ console.log(courses,typeof(courses));       //object
 console.log(stars,typeof(stars));           //undefined
 console.log(null,typeof(null));             //object
 
-// Activity 4
+// Activity 4   #Reassigning variables
 // Task5
 
 let game = 'cricket';
@@ -44,7 +44,7 @@ console.log(game);
 game = 'football';
 console.log(game);
 
-// Activity 5
+// Activity 5   #Understanding const
 // Task6
 
 const months = 12;
