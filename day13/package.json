@@ -1,0 +1,19 @@
+{
+  "name": "day13",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000a\u0000y\u0000 \u00001\u00003\u0000:\u0000 \u0000M\u0000o\u0000d\u0000u\u0000l\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "day13.js",
+  "type": "module",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "lodash": "^4.17.21",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
